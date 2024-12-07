@@ -1,0 +1,1 @@
+This example demonstrates a common issue in TypeScript where optional function parameters default to 'undefined' instead of null.  The unexpected 'undefined' value can cause problems if your code isn't explicitly checking for it.  The solution shows how to handle this using optional chaining or the nullish coalescing operator.
